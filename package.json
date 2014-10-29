@@ -1,0 +1,14 @@
+{
+  "name": "Hive",
+  "version": "0.0.1",
+  "description": "Hive support : syntax highlighting",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chriscx/language-hive"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
